@@ -1,0 +1,2802 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+    <course>
+        <code>DESA1600</code>
+        <rate>7</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1601</code>
+        <rate>11</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1602</code>
+        <rate>54</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1603</code>
+        <rate>63</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1604</code>
+        <rate>45</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1605</code>
+        <rate>92</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1606</code>
+        <rate>8</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1607</code>
+        <rate>86</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1608</code>
+        <rate>50</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1609</code>
+        <rate>5</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1610</code>
+        <rate>28</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1611</code>
+        <rate>46</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1612</code>
+        <rate>66</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1613</code>
+        <rate>38</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1614</code>
+        <rate>40</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1615</code>
+        <rate>57</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1616</code>
+        <rate>97</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1617</code>
+        <rate>10</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1618</code>
+        <rate>94</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1619</code>
+        <rate>63</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1620</code>
+        <rate>89</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1621</code>
+        <rate>30</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1622</code>
+        <rate>14</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1623</code>
+        <rate>11</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1624</code>
+        <rate>1</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1625</code>
+        <rate>82</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1626</code>
+        <rate>79</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1627</code>
+        <rate>95</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1628</code>
+        <rate>22</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1629</code>
+        <rate>66</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1630</code>
+        <rate>83</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1631</code>
+        <rate>66</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1632</code>
+        <rate>35</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1633</code>
+        <rate>27</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1634</code>
+        <rate>63</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1635</code>
+        <rate>75</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1636</code>
+        <rate>9</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1637</code>
+        <rate>89</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1638</code>
+        <rate>60</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1639</code>
+        <rate>71</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1640</code>
+        <rate>41</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1641</code>
+        <rate>67</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1642</code>
+        <rate>47</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1643</code>
+        <rate>10</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1644</code>
+        <rate>10</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1645</code>
+        <rate>69</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1646</code>
+        <rate>1</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1647</code>
+        <rate>23</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1648</code>
+        <rate>74</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1649</code>
+        <rate>65</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1650</code>
+        <rate>94</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1651</code>
+        <rate>80</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1652</code>
+        <rate>65</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1653</code>
+        <rate>21</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1654</code>
+        <rate>61</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1655</code>
+        <rate>4</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1656</code>
+        <rate>89</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1657</code>
+        <rate>85</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1658</code>
+        <rate>48</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1659</code>
+        <rate>40</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1660</code>
+        <rate>65</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1661</code>
+        <rate>68</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1662</code>
+        <rate>98</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1663</code>
+        <rate>33</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1664</code>
+        <rate>85</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1665</code>
+        <rate>33</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1666</code>
+        <rate>46</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1667</code>
+        <rate>69</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1668</code>
+        <rate>92</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1669</code>
+        <rate>59</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1670</code>
+        <rate>6</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1671</code>
+        <rate>32</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1672</code>
+        <rate>10</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1673</code>
+        <rate>82</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1674</code>
+        <rate>69</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1675</code>
+        <rate>46</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1676</code>
+        <rate>93</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1677</code>
+        <rate>27</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1678</code>
+        <rate>82</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1679</code>
+        <rate>60</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1680</code>
+        <rate>58</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1681</code>
+        <rate>96</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1682</code>
+        <rate>6</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1683</code>
+        <rate>47</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1684</code>
+        <rate>6</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1685</code>
+        <rate>46</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1686</code>
+        <rate>61</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1687</code>
+        <rate>58</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1688</code>
+        <rate>47</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1689</code>
+        <rate>96</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1690</code>
+        <rate>31</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1691</code>
+        <rate>95</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1692</code>
+        <rate>48</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1693</code>
+        <rate>97</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1694</code>
+        <rate>83</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1695</code>
+        <rate>12</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1696</code>
+        <rate>42</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1697</code>
+        <rate>43</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1698</code>
+        <rate>8</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1699</code>
+        <rate>3</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1700</code>
+        <rate>36</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1701</code>
+        <rate>83</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1702</code>
+        <rate>78</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1703</code>
+        <rate>24</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1704</code>
+        <rate>60</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1705</code>
+        <rate>18</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1706</code>
+        <rate>69</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1707</code>
+        <rate>94</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1708</code>
+        <rate>5</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1709</code>
+        <rate>41</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1710</code>
+        <rate>58</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1711</code>
+        <rate>53</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1712</code>
+        <rate>81</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1713</code>
+        <rate>32</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1714</code>
+        <rate>51</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1715</code>
+        <rate>94</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1716</code>
+        <rate>34</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1717</code>
+        <rate>29</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1718</code>
+        <rate>86</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1719</code>
+        <rate>65</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1720</code>
+        <rate>40</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1721</code>
+        <rate>2</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1722</code>
+        <rate>65</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1723</code>
+        <rate>17</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1724</code>
+        <rate>96</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1725</code>
+        <rate>6</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1726</code>
+        <rate>43</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1727</code>
+        <rate>95</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1728</code>
+        <rate>85</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1729</code>
+        <rate>57</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1730</code>
+        <rate>43</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1731</code>
+        <rate>3</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1732</code>
+        <rate>8</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1733</code>
+        <rate>21</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1734</code>
+        <rate>1</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1735</code>
+        <rate>25</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1736</code>
+        <rate>24</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1737</code>
+        <rate>79</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1738</code>
+        <rate>90</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1739</code>
+        <rate>74</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1740</code>
+        <rate>31</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1741</code>
+        <rate>75</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1742</code>
+        <rate>5</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1743</code>
+        <rate>20</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1744</code>
+        <rate>88</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1745</code>
+        <rate>87</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1746</code>
+        <rate>26</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1747</code>
+        <rate>10</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1748</code>
+        <rate>40</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1749</code>
+        <rate>46</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1750</code>
+        <rate>98</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1751</code>
+        <rate>77</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1752</code>
+        <rate>88</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1753</code>
+        <rate>14</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1754</code>
+        <rate>6</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1755</code>
+        <rate>74</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1756</code>
+        <rate>89</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1757</code>
+        <rate>54</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1758</code>
+        <rate>38</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1759</code>
+        <rate>84</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1760</code>
+        <rate>51</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1761</code>
+        <rate>37</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1762</code>
+        <rate>42</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1763</code>
+        <rate>30</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1764</code>
+        <rate>22</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1765</code>
+        <rate>34</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1766</code>
+        <rate>16</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1767</code>
+        <rate>93</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1768</code>
+        <rate>47</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1769</code>
+        <rate>67</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1770</code>
+        <rate>76</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1771</code>
+        <rate>31</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1772</code>
+        <rate>1</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1773</code>
+        <rate>46</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1774</code>
+        <rate>51</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1775</code>
+        <rate>48</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1776</code>
+        <rate>53</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1777</code>
+        <rate>2</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1778</code>
+        <rate>72</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1779</code>
+        <rate>75</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1780</code>
+        <rate>74</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1781</code>
+        <rate>7</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1782</code>
+        <rate>26</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1783</code>
+        <rate>27</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1784</code>
+        <rate>19</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1785</code>
+        <rate>99</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1786</code>
+        <rate>28</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1787</code>
+        <rate>59</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1788</code>
+        <rate>83</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1789</code>
+        <rate>67</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1790</code>
+        <rate>5</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1791</code>
+        <rate>91</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1792</code>
+        <rate>19</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1793</code>
+        <rate>23</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1794</code>
+        <rate>20</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1795</code>
+        <rate>73</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1796</code>
+        <rate>89</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1797</code>
+        <rate>38</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1798</code>
+        <rate>21</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1799</code>
+        <rate>46</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1800</code>
+        <rate>9</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1801</code>
+        <rate>78</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1802</code>
+        <rate>36</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1803</code>
+        <rate>14</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1804</code>
+        <rate>78</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1805</code>
+        <rate>44</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1806</code>
+        <rate>48</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1807</code>
+        <rate>56</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1808</code>
+        <rate>36</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1809</code>
+        <rate>23</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1810</code>
+        <rate>67</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1811</code>
+        <rate>16</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1812</code>
+        <rate>54</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1813</code>
+        <rate>76</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1814</code>
+        <rate>80</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1815</code>
+        <rate>73</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1816</code>
+        <rate>48</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1817</code>
+        <rate>34</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1818</code>
+        <rate>47</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1819</code>
+        <rate>26</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1820</code>
+        <rate>48</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1821</code>
+        <rate>45</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1822</code>
+        <rate>91</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1823</code>
+        <rate>67</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1824</code>
+        <rate>16</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1825</code>
+        <rate>66</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1826</code>
+        <rate>71</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1827</code>
+        <rate>67</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1828</code>
+        <rate>95</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1829</code>
+        <rate>77</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1830</code>
+        <rate>45</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1831</code>
+        <rate>75</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1832</code>
+        <rate>60</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1833</code>
+        <rate>15</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1834</code>
+        <rate>29</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1835</code>
+        <rate>73</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1836</code>
+        <rate>61</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1837</code>
+        <rate>1</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1838</code>
+        <rate>80</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1839</code>
+        <rate>89</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1840</code>
+        <rate>42</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1841</code>
+        <rate>96</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1842</code>
+        <rate>41</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1843</code>
+        <rate>88</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1844</code>
+        <rate>6</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1845</code>
+        <rate>3</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1846</code>
+        <rate>80</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1847</code>
+        <rate>70</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1848</code>
+        <rate>78</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1849</code>
+        <rate>86</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1850</code>
+        <rate>68</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1851</code>
+        <rate>52</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1852</code>
+        <rate>41</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1853</code>
+        <rate>68</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1854</code>
+        <rate>20</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1855</code>
+        <rate>55</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1856</code>
+        <rate>56</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1857</code>
+        <rate>89</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1858</code>
+        <rate>48</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1859</code>
+        <rate>35</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1860</code>
+        <rate>97</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1861</code>
+        <rate>25</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1862</code>
+        <rate>41</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1863</code>
+        <rate>75</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1864</code>
+        <rate>89</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1865</code>
+        <rate>32</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1866</code>
+        <rate>77</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1867</code>
+        <rate>84</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1868</code>
+        <rate>13</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1869</code>
+        <rate>63</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1870</code>
+        <rate>85</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1871</code>
+        <rate>31</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1872</code>
+        <rate>31</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1873</code>
+        <rate>90</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1874</code>
+        <rate>21</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1875</code>
+        <rate>75</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1876</code>
+        <rate>25</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1877</code>
+        <rate>91</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1878</code>
+        <rate>17</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1879</code>
+        <rate>68</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1880</code>
+        <rate>30</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1881</code>
+        <rate>9</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1882</code>
+        <rate>60</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1883</code>
+        <rate>22</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1884</code>
+        <rate>99</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1885</code>
+        <rate>50</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1886</code>
+        <rate>83</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1887</code>
+        <rate>62</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1888</code>
+        <rate>95</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1889</code>
+        <rate>69</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1890</code>
+        <rate>69</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1891</code>
+        <rate>59</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1892</code>
+        <rate>49</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1893</code>
+        <rate>10</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1894</code>
+        <rate>4</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1895</code>
+        <rate>4</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1896</code>
+        <rate>12</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1897</code>
+        <rate>96</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1898</code>
+        <rate>94</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1899</code>
+        <rate>95</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1900</code>
+        <rate>23</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1901</code>
+        <rate>3</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1902</code>
+        <rate>9</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1903</code>
+        <rate>43</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1904</code>
+        <rate>29</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1905</code>
+        <rate>46</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1906</code>
+        <rate>96</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1907</code>
+        <rate>27</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1908</code>
+        <rate>63</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1909</code>
+        <rate>84</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1910</code>
+        <rate>32</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1911</code>
+        <rate>30</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1912</code>
+        <rate>95</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1913</code>
+        <rate>84</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1914</code>
+        <rate>53</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1915</code>
+        <rate>44</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1916</code>
+        <rate>59</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1917</code>
+        <rate>7</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1918</code>
+        <rate>49</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1919</code>
+        <rate>70</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1920</code>
+        <rate>18</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1921</code>
+        <rate>50</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1922</code>
+        <rate>42</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1923</code>
+        <rate>68</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1924</code>
+        <rate>55</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1925</code>
+        <rate>67</rate>
+        <college>College Of Law</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1926</code>
+        <rate>23</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1927</code>
+        <rate>66</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1928</code>
+        <rate>89</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1929</code>
+        <rate>83</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1930</code>
+        <rate>55</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1931</code>
+        <rate>5</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1932</code>
+        <rate>85</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1933</code>
+        <rate>50</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1934</code>
+        <rate>78</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1935</code>
+        <rate>29</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1936</code>
+        <rate>82</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1937</code>
+        <rate>45</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1938</code>
+        <rate>10</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1939</code>
+        <rate>9</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1940</code>
+        <rate>42</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1941</code>
+        <rate>76</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1942</code>
+        <rate>24</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1943</code>
+        <rate>79</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1944</code>
+        <rate>13</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1945</code>
+        <rate>62</rate>
+        <college>College of Business and Economics</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1946</code>
+        <rate>60</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1947</code>
+        <rate>82</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1948</code>
+        <rate>96</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1949</code>
+        <rate>47</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1950</code>
+        <rate>5</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1951</code>
+        <rate>55</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1952</code>
+        <rate>48</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1953</code>
+        <rate>79</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1954</code>
+        <rate>25</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1955</code>
+        <rate>60</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1956</code>
+        <rate>38</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1957</code>
+        <rate>14</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1958</code>
+        <rate>46</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1959</code>
+        <rate>22</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1960</code>
+        <rate>67</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1961</code>
+        <rate>94</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1962</code>
+        <rate>78</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1963</code>
+        <rate>61</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1964</code>
+        <rate>2</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1965</code>
+        <rate>48</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1966</code>
+        <rate>7</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1967</code>
+        <rate>28</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1968</code>
+        <rate>22</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1969</code>
+        <rate>12</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1970</code>
+        <rate>78</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1971</code>
+        <rate>87</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1972</code>
+        <rate>89</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1973</code>
+        <rate>57</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1974</code>
+        <rate>87</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1975</code>
+        <rate>69</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1976</code>
+        <rate>75</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1977</code>
+        <rate>49</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1978</code>
+        <rate>31</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1979</code>
+        <rate>20</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1980</code>
+        <rate>98</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1981</code>
+        <rate>92</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1982</code>
+        <rate>21</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1983</code>
+        <rate>45</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1984</code>
+        <rate>79</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1985</code>
+        <rate>62</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1986</code>
+        <rate>2</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1987</code>
+        <rate>43</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>LAWS1988</code>
+        <rate>45</rate>
+        <college>College Of Law</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5200</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1989</code>
+        <rate>50</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1990</code>
+        <rate>73</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1991</code>
+        <rate>18</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1992</code>
+        <rate>38</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1993</code>
+        <rate>90</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1994</code>
+        <rate>33</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>DESA1995</code>
+        <rate>79</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1996</code>
+        <rate>20</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1997</code>
+        <rate>36</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>STAT1998</code>
+        <rate>19</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>PSYC1999</code>
+        <rate>25</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+</list>

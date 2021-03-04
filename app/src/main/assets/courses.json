@@ -1,0 +1,5102 @@
+[
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1000"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 23
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1001"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 86
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1002"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 15
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1003"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 67
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1004"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 13
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1005"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 41
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1006"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 41
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1007"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 50
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1008"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 37
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1009"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 4
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1010"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 60
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1011"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1012"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 45
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1013"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 26
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1014"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 40
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1015"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 15
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1016"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 10
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "DESA1017"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 53
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1018"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 66
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1019"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 26
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1020"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 11
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "ENGN1021"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 56
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1022"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1023"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 68
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1024"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 33
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1025"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 54
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1026"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1027"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 16
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1028"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1029"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 49
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1030"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 37
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1031"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 26
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1032"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 23
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1033"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 77
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1034"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 79
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1035"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 16
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1036"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 1
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1037"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 23
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1038"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 42
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1039"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 24
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1040"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 23
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1041"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1042"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 77
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1043"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 59
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1044"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 3
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT1045"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 91
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1046"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 28
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1047"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 66
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1048"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 51
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1049"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 8
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1050"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 3
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1051"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 50
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT1052"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 71
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1053"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 92
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1054"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 79
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1055"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 19
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1056"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 92
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1057"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 93
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1058"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 77
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1059"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 5
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1060"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1061"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 99
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1062"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 80
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "BIOL1063"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT1064"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 32
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1065"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 5
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1066"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 49
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1067"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 10
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "ENGN1068"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 80
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1069"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 58
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1070"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 31
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1071"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 73
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1072"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 4
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1073"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 28
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1074"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 38
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1075"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1076"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 20
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1077"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 35
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1078"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 1
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1079"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 8
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1080"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 77
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1081"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 97
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1082"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 90
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "ENGN1083"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 72
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1084"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 7
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1085"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 79
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1086"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 83
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1087"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 20
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1088"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 2
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1089"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 18
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "LAWS1090"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 94
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1091"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 95
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1092"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 98
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1093"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 38
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1094"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 18
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1095"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 79
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1096"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 21
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1097"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 38
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1098"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 80
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1099"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 72
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1100"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 3
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1101"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 73
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1102"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 22
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1103"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 21
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1104"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 83
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1105"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 1
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1106"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 93
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "LAWS1107"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "DESA1108"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 45
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1109"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 53
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1110"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 26
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1111"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 47
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1112"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 27
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1113"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 19
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1114"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 24
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1115"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "STAT1116"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 95
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT1117"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1118"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 1
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "DESA1119"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 70
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1120"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 28
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1121"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 33
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "ENGN1122"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 26
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1123"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 39
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1124"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 29
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1125"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 57
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1126"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 57
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1127"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 98
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1128"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1129"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 66
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "STAT1130"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 61
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1131"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 23
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1132"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 95
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1133"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1134"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 4
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1135"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 17
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1136"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 8
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1137"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 67
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1138"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 46
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1139"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 25
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1140"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 89
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1141"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 66
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1142"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 31
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "BIOL1143"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 2
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1144"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 40
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1145"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 3
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1146"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 2
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1147"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 38
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1148"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 58
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1149"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 81
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1150"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1151"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 83
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1152"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 40
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1153"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 69
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1154"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 16
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1155"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 8
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1156"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 4
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1157"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 34
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1158"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 6
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1159"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 41
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1160"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 8
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "DESA1161"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 97
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1162"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 78
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1163"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1164"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 41
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1165"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 72
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1166"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 11
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1167"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 98
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1168"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 23
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1169"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 98
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1170"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 44
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1171"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 30
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1172"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 33
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1173"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 31
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1174"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 22
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1175"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 47
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1176"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 30
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1177"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1178"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 46
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1179"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 87
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1180"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 17
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1181"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 61
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1182"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 37
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1183"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 18
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1184"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 22
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1185"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 15
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1186"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 46
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1187"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1188"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 85
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1189"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 15
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1190"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 48
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1191"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 91
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1192"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 11
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "BIOL1193"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 69
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1194"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 1
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1195"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 18
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1196"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 87
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1197"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 56
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1198"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 27
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1199"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 81
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT1200"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 37
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1201"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 66
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1202"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 97
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1203"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 81
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1204"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 67
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "STAT1205"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 80
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1206"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 10
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1207"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 82
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1208"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 90
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1209"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1210"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1211"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 41
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1212"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 52
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1213"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 39
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1214"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 6
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1215"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 30
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1216"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 10
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1217"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 82
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1218"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "STAT1219"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 49
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1220"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 57
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1221"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 9
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1222"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 37
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1223"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 17
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1224"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 6
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1225"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 95
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1226"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 96
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1227"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 73
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1228"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 74
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1229"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 57
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1230"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "LAWS1231"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 78
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1232"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 24
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1233"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1234"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 19
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1235"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 40
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1236"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 54
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1237"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 84
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1238"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 73
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1239"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 34
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1240"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 19
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1241"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 81
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1242"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 61
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT1243"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 59
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1244"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 3
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1245"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 51
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1246"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 43
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1247"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 46
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1248"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 44
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "BIOL1249"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 83
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1250"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 39
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1251"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 56
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "LAWS1252"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 56
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1253"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 18
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1254"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 19
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1255"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 29
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1256"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 48
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1257"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 27
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1258"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 54
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1259"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 10
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "PSYC1260"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 93
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1261"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1262"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 60
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "LAWS1263"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 33
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1264"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 40
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1265"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 56
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1266"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 92
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1267"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1268"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 14
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1269"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 39
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "DESA1270"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 35
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "LAWS1271"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 70
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1272"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 77
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1273"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 12
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH1274"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 60
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1275"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 38
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1276"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 83
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1277"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 96
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT1278"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 84
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1279"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 68
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1280"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 59
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "ENGN1281"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 49
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1282"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 94
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1283"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 18
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1284"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 15
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "BIOL1285"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 89
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH1286"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 73
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1287"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 67
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1288"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 71
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "PSYC1289"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 46
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT1290"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 61
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "ENGN1291"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 38
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "DESA1292"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 66
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "BIOL1293"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 34
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1294"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 55
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP1295"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 89
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "BIOL1296"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 76
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "COMP1297"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 48
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA1298"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 64
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS1299"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 19
+    }
+  }
+]

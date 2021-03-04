@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+    <course>
+        <code>ENGN1000</code>
+        <rate>43</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1001</code>
+        <rate>1</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MATH1002</code>
+        <rate>37</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1003</code>
+        <rate>2</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1004</code>
+        <rate>5</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>MGMT1005</code>
+        <rate>73</rate>
+        <college>College of Business and Economics</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5700</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1006</code>
+        <rate>68</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>COMP1007</code>
+        <rate>0</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+    <course>
+        <code>BIOL1008</code>
+        <rate>93</rate>
+        <college>College of Arts and Social Sciences</college>
+        <career>Postgraduate</career>
+        <tuition_fee>5400</tuition_fee>
+    </course>
+    <course>
+        <code>ENGN1009</code>
+        <rate>99</rate>
+        <college>College of Engineering and Computer Science</college>
+        <career>Undergraduate</career>
+        <tuition_fee>5760</tuition_fee>
+    </course>
+</list>

@@ -1,0 +1,172 @@
+[
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "STAT2000"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 34
+    }
+  },
+  {
+    "college": {
+      "college": "College of Engineering and Computer Science"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "COMP2001"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5760
+    },
+    "rate": {
+      "rate": 65
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS2002"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 70
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT2003"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 7
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MATH2004"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 60
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Postgraduate"
+    },
+    "code": {
+      "code": "MGMT2005"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 50
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "DESA2006"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 2
+    }
+  },
+  {
+    "college": {
+      "college": "College Of Law"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "LAWS2007"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5200
+    },
+    "rate": {
+      "rate": 21
+    }
+  },
+  {
+    "college": {
+      "college": "College of Arts and Social Sciences"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MATH2008"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5400
+    },
+    "rate": {
+      "rate": 69
+    }
+  },
+  {
+    "college": {
+      "college": "College of Business and Economics"
+    },
+    "career": {
+      "career": "Undergraduate"
+    },
+    "code": {
+      "code": "MGMT2009"
+    },
+    "tuition_fee": {
+      "tuitionfee": 5700
+    },
+    "rate": {
+      "rate": 46
+    }
+  }
+]
